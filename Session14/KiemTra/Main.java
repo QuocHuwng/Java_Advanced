@@ -4,7 +4,7 @@ import java.sql.*;
 import java.util.Scanner;
 
 public class Main {
-    static String url = "jdbc:mysql://localhost:3306/bank?useSSL=false&serverTimezone=UTC";
+    static String url = "jdbc:mysql://127.0.0.1:3306/bank";
     static String user = "root";
     static String password = "123456";
 
